@@ -1,0 +1,10 @@
+# exclude files
+
+*.zip
+*.mp4
+*.pptx
+
+# folders
+META-INF/
+WEB-INF/
+
